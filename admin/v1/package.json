@@ -1,0 +1,39 @@
+{
+  "name": "admin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.5",
+    "@fortawesome/fontawesome-free-solid": "^5.0.10",
+    "@fortawesome/react-fontawesome": "0.0.18",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.0.0",
+    "lodash": "^4.17.5",
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0",
+    "react-bootstrap-table-next": "^0.1.8",
+    "react-bootstrap-table2-overlay": "^0.1.1",
+    "react-bootstrap-table2-paginator": "^0.1.1",
+    "react-dom": "^16.2.0",
+    "react-icons": "^2.2.7",
+    "react-redux": "^5.0.7",
+    "react-responsive": "^4.1.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^1.1.1",
+    "react-scroll": "^1.7.7",
+    "react-select": "^1.2.1",
+    "react-selectize": "^3.0.1",
+    "react-table": "^6.8.0",
+    "reactstrap": "^5.0.0-beta.3",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0",
+    "semantic-ui-css": "^2.3.1",
+    "semantic-ui-react": "^0.79.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

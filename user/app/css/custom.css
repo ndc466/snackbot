@@ -1,0 +1,22 @@
+.img-icon {
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+}
+
+a.js-scroll-trigger {
+    font-size: 20px;
+}
+  
+li.nav-item a.nav-link.js-scroll-trigger {
+    font-size: 20px;
+}
+
+nav#mainNav.navbar.navbar-expand-lg.navbar-light.fixed-top {
+    font-size: 20px;   
+}
+
+div#navbarResponsive.collapse.navbar-collapse {
+    font-size: 20px;
+}

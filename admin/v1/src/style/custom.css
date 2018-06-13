@@ -1,0 +1,15 @@
+a.js-scroll-trigger {
+    font-size: 30px;
+}
+  
+li.nav-item a.nav-link.js-scroll-trigger {
+    font-size: 30px;
+}
+
+nav#mainNav.navbar.navbar-expand-lg.navbar-light.fixed-top {
+    font-size: 30px;   
+}
+
+div#navbarResponsive.collapse.navbar-collapse {
+    font-size: 30px;
+}

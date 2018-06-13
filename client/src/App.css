@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+
+nav.mainNav {
+  border-bottom: 1px solid rgba(33, 37, 41, 0.1);
+  background-color: #fff;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: all 0.2s;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+.mainNav > a.navbar-brand {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #F80000;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.mainNav > a.navbar-brand:focus, .mainNav > a.navbar-brand:hover {
+  color: #F80000;
+}
+.mainNav > div > ul.navbar-nav > li.nav-item > a.nav-link,
+.mainNav > div > ul.navbar-nav > li.nav-item > a.nav-link:focus {
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #212529;
+}
+
+.mainNav > div > ul.navbar-nav > li.nav-item > a.nav-link:hover,
+.mainNav > div >  ul.navbar-nav > li.nav-item > a.nav-link:focus:hover {
+  color: #F80000;
+}

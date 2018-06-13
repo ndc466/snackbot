@@ -1,0 +1,3 @@
+export const FETCH_ORDERS = 'FETCH_ORDERS';
+export const RECEIVE_ORDERS = 'RECEIVE_ORDERS';
+export const UPDATE_STATUS = 'UPDATE_STATUS';

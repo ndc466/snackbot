@@ -1,0 +1,47 @@
+[
+  {
+    "status": "Order Placed",
+    "item": "Snickers",
+    "name": "Nolan",
+    "team": "AppDev"
+  },
+  {
+    "status": "Order Placed",
+    "item": "Twix",
+    "name": "Christian",
+    "team": "IaaS"
+  },
+  {
+    "status": "Order Placed",
+    "item": "Popcorn",
+    "name": "Phil",
+    "team": "IaaS"
+  },
+  { "status": "Pending", "item": "7-Up", "name": "Faysal", "team": "Security" },
+  { "status": "Pending", "item": "Pepsi", "name": "Naresh", "team": "AppDev" },
+  {
+    "status": "Pending",
+    "item": "Twizzlers",
+    "name": "Joyabali",
+    "team": "Integration"
+  },
+  {
+    "status": "Delivered",
+    "item": "Popcorn",
+    "name": "Nolan",
+    "team": "AppDev"
+  },
+  { "status": "Delivered", "item": "Oreos", "name": "Allison", "team": "IaaS" },
+  {
+    "status": "Delivered",
+    "item": "Nachos",
+    "name": "Kollin",
+    "team": "Integration"
+  },
+  {
+    "status": "Delivered",
+    "item": "Coca-Cola",
+    "name": "Price",
+    "team": "Security"
+  }
+]

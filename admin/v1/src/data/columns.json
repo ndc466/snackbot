@@ -1,0 +1,21 @@
+[{
+  "dataField": "team_name",
+  "text": "Team Name",
+  "sort": true
+}, {
+  "dataField": "name",
+  "text": "Name",
+  "sort": true
+}, {
+  "dataField": "timestemp",
+  "text": "Time of Order",
+  "sort": true
+}, {
+  "dataField": "items",
+  "text": "Items",
+  "sort": true
+}, {
+  "dataField": "status",
+  "text": "Order Status",
+  "sort": true
+}]
